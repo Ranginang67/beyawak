@@ -1,7 +1,7 @@
 # beyawak
 
 
-what is beyawak tools?<br>beyawak tools for termux :)
+what is beyawak tools?<br>beyawak tool is a tool created for termux :)
 
 # screenshoot
 ![1](https://github.com/Ranginang67/beyawak/blob/master/module/beyawak.png)
