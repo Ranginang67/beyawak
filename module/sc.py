@@ -1,4 +1,4 @@
-import time, sys, itertools, os.path
+import sys, os.path
 import requests, re, json, urllib
 from file import *
 from time import sleep
